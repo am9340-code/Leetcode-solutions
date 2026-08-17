@@ -7,8 +7,13 @@ My LeetCode solutions and DSA practice in Python.
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/am9340-code/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1929-concatenation-of-array](https://github.com/am9340-code/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/am9340-code/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/am9340-code/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->

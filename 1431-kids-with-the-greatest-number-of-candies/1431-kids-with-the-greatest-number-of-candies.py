@@ -3,10 +3,9 @@ class Solution:
         result = []
         
         for i in range(len(candies)):
-            if candies[i] + extraCandies >= max(candies):
-                result.append(True)
-            else:
-                result.append(False)
+            
+            result.append(candies[i] + extraCandies >= max(candies))
+                
         return result
 
         

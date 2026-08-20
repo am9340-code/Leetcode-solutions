@@ -1,6 +1,6 @@
 class Solution:
     def numIdenticalPairs(self, nums: List[int]) -> int:
-        pairs = []
+        
         count = 0
         
         for i in range(len(nums)):

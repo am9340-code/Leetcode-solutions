@@ -8,6 +8,7 @@ My LeetCode solutions and DSA practice in Python.
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/am9340-code/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/am9340-code/Leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1436-destination-city](https://github.com/am9340-code/Leetcode-solutions/tree/master/1436-destination-city) |
 | [1470-shuffle-the-array](https://github.com/am9340-code/Leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/am9340-code/Leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/am9340-code/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -34,6 +35,7 @@ My LeetCode solutions and DSA practice in Python.
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/am9340-code/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1436-destination-city](https://github.com/am9340-code/Leetcode-solutions/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/am9340-code/Leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
@@ -59,4 +61,8 @@ My LeetCode solutions and DSA practice in Python.
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/am9340-code/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## String
+|  |
+| ------- |
+| [1436-destination-city](https://github.com/am9340-code/Leetcode-solutions/tree/master/1436-destination-city) |
 <!---LeetCode Topics End-->

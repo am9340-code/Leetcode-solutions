@@ -6,6 +6,7 @@ My LeetCode solutions and DSA practice in Python.
 ## Array
 |  |
 | ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/am9340-code/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/am9340-code/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/am9340-code/Leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/am9340-code/Leetcode-solutions/tree/master/1436-destination-city) |
@@ -40,6 +41,7 @@ My LeetCode solutions and DSA practice in Python.
 ## Math
 |  |
 | ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/am9340-code/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/am9340-code/Leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |

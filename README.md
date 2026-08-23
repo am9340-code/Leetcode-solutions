@@ -6,6 +6,7 @@ My LeetCode solutions and DSA practice in Python.
 ## Array
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/am9340-code/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/am9340-code/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/am9340-code/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/am9340-code/Leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -58,6 +59,7 @@ My LeetCode solutions and DSA practice in Python.
 ## Sorting
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/am9340-code/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/am9340-code/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -67,4 +69,8 @@ My LeetCode solutions and DSA practice in Python.
 |  |
 | ------- |
 | [1436-destination-city](https://github.com/am9340-code/Leetcode-solutions/tree/master/1436-destination-city) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/am9340-code/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->

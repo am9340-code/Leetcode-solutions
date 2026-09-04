@@ -6,5 +6,5 @@ class Solution:
 
             if complement in seen:
                 return [seen[complement],i]
-
-            seen[nums[i]] = i
+            else:
+                seen[nums[i]] = i

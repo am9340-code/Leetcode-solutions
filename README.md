@@ -6,6 +6,7 @@ My LeetCode solutions and DSA practice in Python.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/am9340-code/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0283-move-zeroes](https://github.com/am9340-code/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/am9340-code/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/am9340-code/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -37,6 +38,7 @@ My LeetCode solutions and DSA practice in Python.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/am9340-code/Leetcode-solutions/tree/master/0001-two-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/am9340-code/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/am9340-code/Leetcode-solutions/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/am9340-code/Leetcode-solutions/tree/master/1512-number-of-good-pairs) |

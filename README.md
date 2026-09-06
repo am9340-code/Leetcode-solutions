@@ -75,10 +75,12 @@ My LeetCode solutions and DSA practice in Python.
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/am9340-code/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [1436-destination-city](https://github.com/am9340-code/Leetcode-solutions/tree/master/1436-destination-city) |
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/am9340-code/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/am9340-code/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/am9340-code/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming

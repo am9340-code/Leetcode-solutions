@@ -43,6 +43,7 @@ My LeetCode solutions and DSA practice in Python.
 | ------- |
 | [0001-two-sum](https://github.com/am9340-code/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/am9340-code/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/am9340-code/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/am9340-code/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/am9340-code/Leetcode-solutions/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/am9340-code/Leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -67,6 +68,7 @@ My LeetCode solutions and DSA practice in Python.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/am9340-code/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/am9340-code/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/am9340-code/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/am9340-code/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
@@ -77,6 +79,7 @@ My LeetCode solutions and DSA practice in Python.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/am9340-code/Leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/am9340-code/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1436-destination-city](https://github.com/am9340-code/Leetcode-solutions/tree/master/1436-destination-city) |
 ## Two Pointers
 |  |
